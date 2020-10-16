@@ -1,0 +1,23 @@
+{
+  "name": "users-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myogeshchavan97/users-api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myogeshchavan97/users-api-server/issues"
+  },
+  "homepage": "https://github.com/myogeshchavan97/users-api-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
